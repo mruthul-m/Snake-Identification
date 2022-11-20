@@ -188,7 +188,7 @@ pred = [labels[k] for k in pred]
 # Display the result
 print(f'The first 5 predictions: {pred[:5]}')
 
-
+#here valid is a folder there you could upload the image of the snake in jpg format
 
 image_dir = Path('/content/drive/MyDrive/SNAKE_TEST/Snake Images/valid')
 
